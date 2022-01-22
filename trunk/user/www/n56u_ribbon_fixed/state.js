@@ -394,7 +394,7 @@ tabtitle[9] = new Array("", "<#menu5_7_2#>", "<#menu5_7_3#>", "<#menu5_7_5#>", "
 tabtitle[10] = new Array("");//认证
 tabtitle[11] = new Array("");//DNS
 tabtitle[12] = new Array("");//广告
-tabtitle[13] = new Array("");//科学
+tabtitle[13] = new Array("");//网际
 tabtitle[14] = new Array("");//内网
 tabtitle[15] = new Array("");//存储
 tabtitle[16] = new Array("");//音乐
@@ -1421,7 +1421,7 @@ function removeFromLocalStorage(name){
         localStorage.removeItem(name);
     }
 }
-//WEB自定义菜单
+//WEB菜单自定义
 var w_ai = '<% nvram_get_x("", "w_ai"); %>';
 var w_vpn_s = '<% nvram_get_x("", "w_vpn_s"); %>';
 var w_vpn_c = '<% nvram_get_x("", "w_vpn_c"); %>';
