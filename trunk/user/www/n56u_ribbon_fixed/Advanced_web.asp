@@ -150,8 +150,8 @@ function applyRule(){
 							<div class="round_bottom">
 								<div class="row-fluid">
 									<div id="tabMenu" class="submenuBlock"></div>
-									<div class="alert alert-info" style="margin: 10px;">把你不想在网页上显示的菜单选项关闭，适用于重度强迫症......<br />
-									<div>此选项只能屏蔽页面的显示，并不会删除程序。</div>
+									<div class="alert alert-info" style="margin: 10px;">关闭网页上显示的菜单选项，<br />
+									<div>此选项只屏蔽页面的显示，并不会删除程序。</div>
 									</div>
 									<table width="100%" align="center" cellpadding="4" cellspacing="0" class="table">
 										<tr >
