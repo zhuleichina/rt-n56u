@@ -1,5 +1,5 @@
 /* HC5962 */
-#define BOARD_PID		"HC5962"
+#define BOARD_PID		"HiWiFi"
 #define BOARD_NAME		"HC5962"
 #define BOARD_DESC		"HC5962 Wireless Router"
 #define BOARD_VENDOR_NAME	"HiWiFi/Gee Technology"
